@@ -36,15 +36,15 @@
 
 ## Workflow
 
-+++?image=assets/db001.png&size=auto 80%
++++?image=assets/db001.png&size=auto 70%
 <!-- .slide: data-background-transition="fade" -->
-+++?image=assets/db002.png&size=auto 80%
++++?image=assets/db002.png&size=auto 70%
 <!-- .slide: data-background-transition="fade" -->
-+++?image=assets/db003.png&size=auto 80%
++++?image=assets/db003.png&size=auto 70%
 <!-- .slide: data-background-transition="fade" -->
-+++?image=assets/db004.png&size=auto 80%
++++?image=assets/db004.png&size=auto 70%
 <!-- .slide: data-background-transition="fade" -->
-+++?image=assets/dbfull.png&size=auto 80%
++++?image=assets/dbfull.png&size=auto 70%
 <!-- .slide: data-background-transition="fade" -->
 
 ---
