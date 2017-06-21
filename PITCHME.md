@@ -34,6 +34,20 @@
 
 ---
 
+## Workflow
+
++++?image=assets/db001.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/db002.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/db003.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/db004.png
+<!-- .slide: data-background-transition="none" -->
++++?image=assets/dbfull.png
+<!-- .slide: data-background-transition="none" -->
+---
+
 #### Some Related Links
 
 - [Flyway](https://flywaydb.org)
