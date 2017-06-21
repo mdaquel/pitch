@@ -46,6 +46,27 @@
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/dbfull.png
 <!-- .slide: data-background-transition="none" -->
+
+---
+
+## Workflow
+
++++
+<!-- .slide: data-background-transition="none" -->
+![0](image=assets/db001.png)
++++
+<!-- .slide: data-background-transition="none" -->
+![1](image=assets/db002.png)
++++
+<!-- .slide: data-background-transition="none" -->
+![2](image=assets/db003.png)
++++
+<!-- .slide: data-background-transition="none" -->
+![3](image=assets/db004.png)
++++
+<!-- .slide: data-background-transition="none" -->
+![4](image=assets/dbfull.png)
+
 ---
 
 #### Some Related Links
