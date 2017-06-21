@@ -36,16 +36,16 @@
 
 ## Workflow
 
-+++?image=assets/db001.png
++++?image=assets/db001.png&size=auto 80%
 <!-- .slide: data-background-transition="fade" -->
-+++?image=assets/db002.png
-<!-- .slide: data-background-transition="convex" -->
-+++?image=assets/db003.png
-<!-- .slide: data-background-transition="concave" -->
-+++?image=assets/db004.png
-<!-- .slide: data-background-transition="zoom" -->
-+++?image=assets/dbfull.png
-<!-- .slide: data-background-transition="none" -->
++++?image=assets/db002.png&size=auto 80%
+<!-- .slide: data-background-transition="fade" -->
++++?image=assets/db003.png&size=auto 80%
+<!-- .slide: data-background-transition="fade" -->
++++?image=assets/db004.png&size=auto 80%
+<!-- .slide: data-background-transition="fade" -->
++++?image=assets/dbfull.png&size=auto 80%
+<!-- .slide: data-background-transition="fade" -->
 
 ---
 
