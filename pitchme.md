@@ -13,10 +13,10 @@
 
 ---
 
-### Flyway Apache Spark Package
+### Flyway Database Migrations
 
-  - Offers the full scientific computing power of the R programming language
-  - Within Spark batch and streaming apps on the JVM
+  - An open-source database migration tool. It strongly favors simplicity and convention over configuration.
+  - Supported databases are Oracle, SQL Server, SQL Azure, DB2, DB2 z/OS, MySQL (including Amazon RDS), MariaDB, Google Cloud SQL, PostgreSQL (including Amazon RDS and Heroku), Redshift, Vertica, H2, Hsql, Derby, SQLite, SAP HANA, solidDB, Sybase ASE, Phoenix, EnterpriseDB and Greenplum
 
 ---
 
