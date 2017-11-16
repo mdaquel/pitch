@@ -24,7 +24,7 @@
 
 ---
 
-### Flyway Command line
+### DEMO
 
 <ol>
 <li class="fragment" data-fragment-index="1">Migrates the database [<span style="color:gray">migrate</span>]</li>
