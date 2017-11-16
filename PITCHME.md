@@ -1,5 +1,5 @@
 ---
-![](assets/logox100.png)
+![Logo](assets/logox100.png)
 ### Engine
 
 <span style="color:gray">A continually evolving application</span>
