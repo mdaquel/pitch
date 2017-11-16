@@ -1,6 +1,6 @@
 ---
-
-### Credit Clear Engine
+Credit Clear
+### Engine
 
 <span style="color:gray">A continually evolving application</span>
 
