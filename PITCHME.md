@@ -1,5 +1,5 @@
 ---
-Credit Clear
+![](https://github.com/mdaquel/pitch/blob/azure-service-fabric/assets/logo.svg)
 ### Engine
 
 <span style="color:gray">A continually evolving application</span>
