@@ -1,9 +1,8 @@
 ---
 
-### Microservices
-### (Microsoft Azure Service Fabric)
+### Credit Clear Engine
 
-<span style="color:gray">A continually evolving Engine</span>
+<span style="color:gray">A continually evolving application</span>
 
 ---
 
