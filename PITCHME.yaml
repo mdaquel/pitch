@@ -1,3 +1,5 @@
 theme : sky
 
+theme-override : assets/css/PITCHME.css
+
 footnote : "CREDIT CLEAR © 2017"
