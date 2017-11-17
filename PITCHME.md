@@ -9,12 +9,12 @@
 ### Presentation Map
 
 <ol>
-<li class="fragment" data-fragment-index="1">What is <span style="color:gray"> Service Fabric</span>?</li>
-<li class="fragment" data-fragment-index="2">What are the <span style="color:gray">key capabilities</span> of service fabric?</li>
+<li class="fragment" data-fragment-index="1">Service Fabric</li>
+<li class="fragment" data-fragment-index="2">Key capabilities of service fabric</li>
 <li class="fragment" data-fragment-index="3">DEMO</li>
-<li class="fragment" data-fragment-index="4">What does the new <span style="color:gray">development workflow</span> look like?</li>
+<li class="fragment" data-fragment-index="4">Development workflow</li>
 <li class="fragment" data-fragment-index="5">DEMO</li>
-<li class="fragment" data-fragment-index="6">What does the new <span style="color:gray">continuous delivery pipeline</span> look like?</li>
+<li class="fragment" data-fragment-index="6">Continuous delivery pipeline</li>
 <li class="fragment" data-fragment-index="7">DEMO</li>
 </ol>
 
