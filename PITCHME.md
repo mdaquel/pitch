@@ -36,25 +36,23 @@
 ---
 ### What are the key capabilities of service fabric?
 <ol>
-<li class="fragment" data-fragment-index="1">Deploy and orchestrate containers that include Windows containers and Linux containers. Service Fabric is a data aware, stateful, container orchestrator.</li>
-<li class="fragment" data-fragment-index="2">Deploy applications in seconds, at high density with hundreds or thousands of applications or containers per machine.</li>
-<li class="fragment" data-fragment-index="3">Deploy different versions of the same application side by side, and upgrade each application independently.</li>
-<li class="fragment" data-fragment-index="4">Manage the lifecycle of your applications without any downtime, including breaking and nonbreaking upgrades.</li>
+<li class="fragment" data-fragment-index="5">Deploy and orchestrate containers that include Windows containers and Linux containers. Service Fabric is a data aware, stateful, container orchestrator.</li>
+<li class="fragment" data-fragment-index="6">Deploy applications in seconds, at high density with hundreds or thousands of applications or containers per machine.</li>
+<li class="fragment" data-fragment-index="7">Deploy different versions of the same application side by side, and upgrade each application independently.</li>
+<li class="fragment" data-fragment-index="8">Manage the lifecycle of your applications without any downtime, including breaking and nonbreaking upgrades.</li>
 </ol>
 
 ---
 ### What are the key capabilities of service fabric?
 <ol>
-<li class="fragment" data-fragment-index="1">Scale out or scale in the number of nodes in a cluster. As you scale nodes, your applications automatically scale.</li>
-<li class="fragment" data-fragment-index="2">Monitor and diagnose the health of your applications and set policies for performing automatic repairs.</li>
-<li class="fragment" data-fragment-index="3">Watch the resource balancer orchestrate the redistribution of applications across the cluster. Service Fabric recovers from failures and optimizes the distribution of load based on available resources.</li>
+<li class="fragment" data-fragment-index="9">Scale out or scale in the number of nodes in a cluster. As you scale nodes, your applications automatically scale.</li>
+<li class="fragment" data-fragment-index="10">Monitor and diagnose the health of your applications and set policies for performing automatic repairs.</li>
+<li class="fragment" data-fragment-index="11">Watch the resource balancer orchestrate the redistribution of applications across the cluster. Service Fabric recovers from failures and optimizes the distribution of load based on available resources.</li>
 </ol>
 
 ---
 
 ### DEMO
-
-<span style="color:gray">New platform</span>
 
 ---
 
