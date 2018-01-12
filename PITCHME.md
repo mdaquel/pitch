@@ -1,5 +1,5 @@
 ---
-![Logo](https://github.com/mdaquel/pitch/blob/azure-service-fabric/assets/logox100.png)
+![Logo](assets/logox100.png)
 ## WIRED Payments
 
 <span style="color:gray">Pay any way, anywhere, anytime</span>
