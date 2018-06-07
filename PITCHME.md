@@ -31,7 +31,7 @@
 ### DEMO
 
 <ol>
-<li class="fragment" data-fragment-index="1">[Logentries](https://logentries.com/login/?next=/app/09d3a4f5#/log/c08f4bbb/?last=Last%2020%20Mins&log_q=where(LYGR6T47))</li>
+<li class="fragment" data-fragment-index="1">[Logentries](https://logentries.com/login/?next=/app/09d3a4f5#/log/c08f4bbb/?last=Last%2020%20Mins&log_q=where(LYGR6T47)</li>
 <li class="fragment" data-fragment-index="2">[ElasticSearch](http://52.255.55.39:9200/_cat/indices?v)</li>
 <li class="fragment" data-fragment-index="3">Logstash</li>
 <li class="fragment" data-fragment-index="4">[Kibana](http://52.255.55.39:5601)</li>
@@ -58,4 +58,6 @@
 
 #### Some Related Links
 
-- [API Documentaion](https://docs.fatzebra.com.au/)
+- [Serilog](https://serilog.net/)
+- [Elastic](https://www.elastic.co/)
+- [What Is Structured Logging and Why Developers Need It](https://stackify.com/what-is-structured-logging-and-why-developers-need-it/)
