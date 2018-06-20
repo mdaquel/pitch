@@ -23,7 +23,7 @@
 <ol>
 <li class="fragment" data-fragment-index="1">NLog</li>
 <li class="fragment" data-fragment-index="2">Logentries</li>
-<li class="fragment" data-fragment-index="3"><span style="color:gray"> ELK</span> Stack</li>
+<li class="fragment" data-fragment-index="3">E<span style="color:gray">lasticSearch</span> L<span style="color:gray">ogstash</span> K<span style="color:gray">ibana</span></li>
 </ol>
 
 ---
