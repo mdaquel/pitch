@@ -12,8 +12,6 @@
 <li class="fragment" data-fragment-index="1">Our current stack</li>
 <li class="fragment" data-fragment-index="2">DEMO</li>
 <li class="fragment" data-fragment-index="3">What's new?</li>
-<li class="fragment" data-fragment-index="4">DEMO</li>
-<li class="fragment" data-fragment-index="5">Part 2: Moving beyond operations</li>
  </ol>
 
 ---
@@ -40,10 +38,13 @@
 
 ### What's new?
 
-<ol>
+<ol>Moving beyond operations
 <li class="fragment" data-fragment-index="1">[Serilog](https://serilog.net/)</li>
 <li class="fragment" data-fragment-index="2">[ElasticSearch/Kibana](http://52.255.55.39:5601/app/monitoring#/overview?_g=(cluster_uuid:d2O2vCZ9Sq-kdOtwq5mXjw)</li>
 </ol>
+
+
+<span style="color:gray">Part 2: Moving beyond operations</span>
 
 ---
 
