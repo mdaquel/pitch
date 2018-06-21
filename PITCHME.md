@@ -42,17 +42,9 @@
 ### What's new?
 
 <ol>
-<li class="fragment" data-fragment-index="1">Serilog</li>
-<li class="fragment" data-fragment-index="3"><span style="color:gray"> EK</span> Stack</li>
+<li class="fragment" data-fragment-index="1">[Serilog](https://serilog.net/)</li>
+<li class="fragment" data-fragment-index="2">[ElasticSearch/Kibana](http://52.255.55.39:5601/app/monitoring#/overview?_g=(cluster_uuid:d2O2vCZ9Sq-kdOtwq5mXjw))</li>
 </ol>
-
----
-
-### Moving beyond operations
-
----
-
-### [DEMO](https://sandbox-reseller.cloudpayments.com.au/)
 
 ---
 
