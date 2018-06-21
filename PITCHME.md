@@ -13,8 +13,7 @@
 <li class="fragment" data-fragment-index="2">DEMO</li>
 <li class="fragment" data-fragment-index="3">What's new?</li>
 <li class="fragment" data-fragment-index="4">DEMO</li>
-<li class="fragment" data-fragment-index="5">Moving beyond operations</li>
-<li class="fragment" data-fragment-index="6">DEMO</li>
+<li class="fragment" data-fragment-index="5">Part 2: Moving beyond operations</li>
  </ol>
 
 ---
