@@ -42,7 +42,7 @@
 
 <ol>
 <li class="fragment" data-fragment-index="1">[Serilog](https://serilog.net/)</li>
-<li class="fragment" data-fragment-index="2">[ElasticSearch/Kibana](http://52.255.55.39:5601/app/monitoring#/overview?_g=(cluster_uuid:d2O2vCZ9Sq-kdOtwq5mXjw))</li>
+<li class="fragment" data-fragment-index="2">[ElasticSearch/Kibana](http://52.255.55.39:5601/app/monitoring#/overview?_g=(cluster_uuid:d2O2vCZ9Sq-kdOtwq5mXjw)</li>
 </ol>
 
 ---
